@@ -26,9 +26,12 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [HERE] [Agent Template Finanzas.zip](https://github.com/eva-library/bot-template-finance/files/7554719/Agent.Template.Finanzas.zip)
-To Portuguese, click [HERE] [Agent Template Financas PT.zip](https://github.com/eva-library/agent-template-finance/files/8125243/Agent.Template.Financas.PT.zip)
-To English, click [HERE] [Agent Template Finance (ENG).zip](https://github.com/eva-library/agent-template-finance/files/7765072/Agent.Template.Finance.ENG.zip)
+To Spanish, click [HERE] [Agent Template Finanzas ES.zip](https://github.com/eva-library/agent-template-banking/files/8481976/719ef544-4236-4247-8705-3929fc468f2f.zip)
+
+To Portuguese, click [HERE] [Agent Template Financas PT.zip](https://github.com/eva-library/agent-template-banking/files/8482013/59161674-0620-4e99-a902-0780cf2a02d8.zip)
+
+To English, click [HERE] [Agent Template Finance EN.zip](https://github.com/eva-library/agent-template-banking/files/8482026/8be19d9f-a26b-4653-9aa1-fb3df98fcde8.zip)
+
 
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
