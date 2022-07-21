@@ -1,4 +1,4 @@
-# Agent Template Banking v 1.0 (spanish, portuguese and english)
+# Agent Template Banking v 1.0 (english, spanish and portuguese)
 
 At eva you can use ready to use agent template and just adjust the bot's messages to your needs.
 
