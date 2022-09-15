@@ -29,9 +29,9 @@ It's super easy! Only 5 steps:
 
 Spanish [click here](https://github.com/eva-library/agent-template-banking/files/9014402/AT.Banking.ESP.zip)
 
-To Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
+Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
 
-To English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
+English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
@@ -50,7 +50,7 @@ To English [click here](https://github.com/eva-library/agent-template-banking/bl
 ![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
 
 ## Manual
-- [read the Agent Template manual](https://at.docs.eva.bot/)
+- [Read the Agent Template manual](https://at.docs.eva.bot/)
 
 ## Copyright
 
