@@ -4,7 +4,7 @@ At eva you can use ready to use agent template and just adjust the bot's message
 
 ## Requirements 
 - eva
-- Has eva 3.4 version
+- From version 3.4 onwards
 
 ## About Agent template 
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
@@ -19,7 +19,7 @@ This feature include Intents, Entities and also all the other eva cells, such as
 The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our [documentation](https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva) to know more about how to use eva.
 - The language is Spanish, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
@@ -27,11 +27,11 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file:
 
-To Spanish, click [HERE] [AT Banking ESP.zip](https://github.com/eva-library/agent-template-banking/files/9014402/AT.Banking.ESP.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-banking/files/9014402/AT.Banking.ESP.zip)
 
-To Portuguese, click [HERE] [AT Banking PT.zip](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
+To Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
 
-To English, click [HERE] [AT Banking ENG.zip](https://github.com/eva-library/agent-template-banking/files/9014404/AT.Banking.ENG.zip)
+To English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
@@ -50,11 +50,11 @@ To English, click [HERE] [AT Banking ENG.zip](https://github.com/eva-library/age
 ![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
 
 ## Manual
-- Click on this [link](https://at.docs.eva.bot/) to read the bot template manual.
+- [read the Agent Template manual](https://at.docs.eva.bot/)
 
 ## Copyright
 
 > Copyright ©
 2021, All rights reserved.
-eva by everis product and its components are the property of everis.
-eva by everis is a software registered by everis
+eva by NTT DATA product and its components are the property of NTT DATA.
+eva by NTT DATA is a software registered by NTT DATA
