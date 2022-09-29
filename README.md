@@ -24,8 +24,8 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
-It's super easy! Only 5 steps:
-1) First, download Agent Template zip file:
+It's easy and can be done in just 5 steps:
+1) First, download the Agent Template zip file:
 
 Spanish [click here](https://github.com/eva-library/agent-template-banking/files/9014402/AT.Banking.ESP.zip)
 
@@ -33,13 +33,14 @@ Portuguese [click here](https://github.com/eva-library/agent-template-banking/fi
 
 English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
 
-2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
+2) Then, go to cockpit, press the + button to add a new virtual agent, and choose "Import" (as shown in the image below)
 
-![import (1)](https://user-images.githubusercontent.com/95373474/181065887-ee4b3cf9-197f-4a12-9835-1e4b810cbc0a.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192912961-78e675a3-03c8-451d-90da-e2a79f162077.png)
 
 3) Then, import the zip file:
 
-![import](https://user-images.githubusercontent.com/95373474/181065448-ccf39ac9-5489-44ef-ad5a-800ba1ecb57f.jpg)
+[image](https://user-images.githubusercontent.com/113615214/192912852-631cca8a-3ffa-4627-9150-c12dc108fd24.png)
+
 
 4) Finally, give a name to your template:
 
