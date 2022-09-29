@@ -35,20 +35,20 @@ English [click here](https://github.com/eva-library/agent-template-banking/blob/
 
 2) Then, go to cockpit, press the + button to add a new virtual agent, and choose "Import" (as shown in the image below)
 
-![image](https://user-images.githubusercontent.com/113615214/192912961-78e675a3-03c8-451d-90da-e2a79f162077.png)
+![image](https://user-images.githubusercontent.com/113615214/192914261-bdeb1d47-be0d-4336-9ba2-f4ff793710f1.png)
 
 3) Then, import the zip file:
 
-[image](https://user-images.githubusercontent.com/113615214/192912852-631cca8a-3ffa-4627-9150-c12dc108fd24.png)
+![image](https://user-images.githubusercontent.com/113615214/192914286-45fd1d74-d933-4457-879e-f3884cfa9cc3.png)
 
 
 4) Finally, give a name to your template:
 
-![NAME](https://user-images.githubusercontent.com/95373474/181066132-ad4a08d6-1a13-4c0d-bb2b-efdc39d08d93.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914309-8ecbd970-c0df-48af-adc4-3f2df9460100.png)
 
 5) Then, ready! Your bot template will be in the bot repository.
 
-![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914458-7b4f6cd3-9785-4aac-a825-6ed35f75387c.png)
 
 ## Manual
 - [Read the Agent Template manual](https://at.docs.eva.bot/)
