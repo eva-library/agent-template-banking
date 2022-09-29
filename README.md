@@ -33,20 +33,19 @@ Portuguese [click here](https://github.com/eva-library/agent-template-banking/fi
 
 English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
 
-2) Then, go to cockpit, press the + button to add a new virtual agent, and choose "Import" (as shown in the image below)
+2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
 ![image](https://user-images.githubusercontent.com/113615214/192914261-bdeb1d47-be0d-4336-9ba2-f4ff793710f1.png)
 
-3) Then, import the zip file:
+3) Then, choose the option "new ID"
 
 ![image](https://user-images.githubusercontent.com/113615214/192914286-45fd1d74-d933-4457-879e-f3884cfa9cc3.png)
 
-
-4) Finally, give a name to your template:
+4) Import the zip file and give your VA a name
 
 ![image](https://user-images.githubusercontent.com/113615214/192914309-8ecbd970-c0df-48af-adc4-3f2df9460100.png)
 
-5) Then, ready! Your bot template will be in the bot repository.
+5) All done! The virtual agent will be available in your library.
 
 ![image](https://user-images.githubusercontent.com/113615214/192914458-7b4f6cd3-9785-4aac-a825-6ed35f75387c.png)
 
