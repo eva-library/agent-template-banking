@@ -31,7 +31,8 @@ Spanish [click here](https://github.com/eva-library/agent-template-banking/files
 
 Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
 
-English [click here](https://github.com/eva-library/agent-template-banking/blob/main/e9ac05f5-5877-4ed8-a4d9-25299b091bb4.zip)
+English [click here](https://github.com/eva-library/agent-template-banking/files/10536079/387409e4-a821-49ae-a0f3-40e281635ac6.zip)
+
 
 2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
