@@ -27,9 +27,11 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 It's easy and can be done in just 5 steps:
 1) First, download the Agent Template zip file:
 
-Spanish [click here](https://github.com/eva-library/agent-template-banking/files/9014402/AT.Banking.ESP.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-banking/files/10538667/00cc357a-7fff-4ba0-9c24-8738f86203f4.zip)
 
-Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/9014403/AT.Banking.PT.zip)
+
+Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/10538669/33be6d6e-ef45-46d3-be94-e7671b3ba225.zip)
+
 
 English [click here](https://github.com/eva-library/agent-template-banking/files/10536079/387409e4-a821-49ae-a0f3-40e281635ac6.zip)
 
