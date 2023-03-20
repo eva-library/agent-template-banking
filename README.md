@@ -27,13 +27,15 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 It's easy and can be done in just 5 steps:
 1) First, download the Agent Template zip file:
 
-Spanish [click here](https://github.com/eva-library/agent-template-banking/files/10538667/00cc357a-7fff-4ba0-9c24-8738f86203f4.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-banking/files/11021398/2d8a13c3-376b-4daf-a0da-f95d6c30c5ab.zip)
 
 
-Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/10538669/33be6d6e-ef45-46d3-be94-e7671b3ba225.zip)
+Portuguese [click here](https://github.com/eva-library/agent-template-banking/files/11021401/e421c779-d50f-4a63-bf7e-61b65262bbcc.zip)
 
 
-English [click here](https://github.com/eva-library/agent-template-banking/files/10536079/387409e4-a821-49ae-a0f3-40e281635ac6.zip)
+
+English [click here](https://github.com/eva-library/agent-template-banking/files/11021395/42907fa1-c777-4c37-bd6e-f09275404c7e.zip)
+
 
 
 2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
